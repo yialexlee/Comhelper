@@ -5,6 +5,7 @@ Comhelper is a free computer helping tool which include difference small tool fo
 涛浪浮萍 Yialex Lee
 # How to setup
 1) Download the file and create a cmd shortcut in your dekstop.
+
 2)Right click the shortcut and select properties.
 3)Fill the path of comhelper.exe file in Target columm.Example:D:\Comhelper\Comhelper.exe.
 4)Fill the path of comhelper.exe file folder in Start in columm.Example:D:\Comhelper.
