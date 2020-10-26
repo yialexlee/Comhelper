@@ -16,7 +16,7 @@ Comhelper is a free computer helping tool which include difference small tool fo
 
 6) Click on Advanced Properties button which is at the right of Change Icon button.Tick the checkbox of Run as Administrator and click ok.
 
-7) Click Appy button and ok button.Now you have done the setup.
+7) Click on Apply button and ok button.Now you have done the setup.
 
 Setup Tutorial:https://drive.google.com/file/d/1nWm1dvmQ6dtvMuK9XbBrOV8Nr4IxmCLH/view?usp=sharing
 
