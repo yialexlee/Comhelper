@@ -18,5 +18,7 @@ Comhelper is a free computer helping tool which include difference small tool fo
 
 7) Click Appy button and ok button.Now you have done the setup.
 
+Setup Tutorial:https://drive.google.com/file/d/1nWm1dvmQ6dtvMuK9XbBrOV8Nr4IxmCLH/view?usp=sharing
+
 # How to get product code
 Subcribe youtube channel 涛浪浮萍 channel link:https://www.youtube.com/channel/UC55V_qidSbD5y3Dn45tLBfg .Screenshot the subcribe and email to taolangfuping@gmail.com and we will send you a free product code soon.
