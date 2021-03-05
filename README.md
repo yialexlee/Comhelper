@@ -3,7 +3,9 @@
 Comhelper is a free computer helping tool which include difference small tool for Windows OS.Comhelper tool included Computer Details,Rubbish Cleanner,Disk Scanner,Statistic disks and folder,Auto-Shutdown,IP Config,Control Firewall and File Opener.Comhelper has no GUI and run on terminal(cmd),but you can change 7 type of color.
 # Creactor
 涛浪浮萍 Yialex Lee
-# How to setup
+# How to setup (automatically)
+Double click Comhelper_v1.0.0_setup.exe and follow the step.
+# How to setup (manually)
 1) Download the file and create a cmd shortcut in your dekstop.
 
 2) Right click the shortcut and select properties.
