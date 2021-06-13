@@ -22,5 +22,5 @@ Double click Comhelper_v1.0.0_setup.exe and follow the step.
 
 Manual Setup Tutorial:https://drive.google.com/file/d/1nWm1dvmQ6dtvMuK9XbBrOV8Nr4IxmCLH/view?usp=sharing
 
-# How to get product code
-Subcribe youtube channel 涛浪浮萍 channel link:https://www.youtube.com/c/涛浪浮萍 . Screenshot the subcribe and email to taolangfuping@gmail.com and we will send you a free product code soon.
+# Product code
+Product Code : 52934870
