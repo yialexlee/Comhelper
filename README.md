@@ -24,3 +24,6 @@ Manual Setup Tutorial:https://drive.google.com/file/d/1nWm1dvmQ6dtvMuK9XbBrOV8Nr
 
 # Product code
 Product Code : 52934870
+
+# Change product code
+Replace #define PASSWORD "Your_Password"
