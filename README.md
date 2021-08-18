@@ -1,4 +1,6 @@
 # Comhelper_v1.0.0
+![image](https://github.com/yialexlee/yialexlee.github.io/blob/master/images/work/work1.png)
+
 # About Comhelper
 Comhelper is a free computer helping tool which include many small tool for Windows OS.Comhelper tool included Computer Details,Rubbish Cleanner,Disk Scanner,Statistic disks and folder,Auto-Shutdown,IP Config,Control Firewall and File Opener. Comhelper has no GUI and run on terminal,but you can choose 7 type of color.
 # Develop  by
